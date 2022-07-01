@@ -1,11 +1,11 @@
-[]: # Language: markdown
-[]: # Path: vi.md
-[]: # Title: **Vi Editor Cheat Sheet**
-[]: # Tags: vi, editor, vim, vi-editor
-[]: # Date: 07-01-2022
-[]: # Type: cheat-sheet
-[]: # Category: cheat-sheets
-[]: # Visibility: public 
+[]: Language: markdown
+[]: Path: vi.md
+[]: Title: **Vi Editor Cheat Sheet**
+[]: Tags: vi, editor, vim, vi-editor
+[]: Date: 07-01-2022
+[]: Type: cheat-sheet
+[]: Category: cheat-sheets
+[]: Visibility: public 
 
 ## To start the **Vi editor**
 ```bash
