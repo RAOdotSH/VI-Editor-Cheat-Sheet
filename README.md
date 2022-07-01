@@ -7,6 +7,9 @@
 [] Category: cheat-sheets
 [] Visibility: public 
  -->
+ # VI Cheat Sheet
+Below is the minimal overview of **VI Editor** and some of it's commands.
+
 ## To start the **Vi editor**
 ```bash
 vim
